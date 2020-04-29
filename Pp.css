@@ -1,0 +1,23 @@
+h1{
+    font-size:100px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h2{
+    font-size: 20px;
+    margin-top : 40px;
+    margin-bottom : 75px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#canvas-container {
+    width: 100%;
+    text-align:center;
+ }
+ 
+ canvas {
+    display: inline;
+ }
